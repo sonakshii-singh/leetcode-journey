@@ -32,6 +32,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [0021-merge-two-sorted-lists](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,4 +119,12 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->

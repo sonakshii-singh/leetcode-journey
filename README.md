@@ -139,6 +139,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [0029-divide-two-integers](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0231-power-of-two) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Dynamic Programming
 |  |
 | ------- |

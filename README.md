@@ -127,10 +127,12 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |

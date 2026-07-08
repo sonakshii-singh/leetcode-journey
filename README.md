@@ -89,6 +89,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0020-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
@@ -169,6 +170,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0232-implement-queue-using-stacks) |
 ## Design

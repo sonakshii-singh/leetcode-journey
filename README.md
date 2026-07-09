@@ -40,6 +40,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [0141-linked-list-cycle](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0496-next-greater-element-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -48,6 +49,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | ------- |
 | [0078-subsets](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0136-single-number) |
+| [0496-next-greater-element-i](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0496-next-greater-element-i) |
 | [1288-remove-covered-intervals](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -177,6 +179,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [0155-min-stack](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -188,4 +191,8 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

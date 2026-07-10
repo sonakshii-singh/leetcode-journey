@@ -51,6 +51,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [0078-subsets](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0136-single-number) |
 | [0496-next-greater-element-i](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0503-next-greater-element-ii) |
 | [1288-remove-covered-intervals](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -185,6 +186,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [0225-implement-stack-using-queues](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -200,4 +202,5 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->

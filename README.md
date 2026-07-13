@@ -88,6 +88,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Greedy
 |  |

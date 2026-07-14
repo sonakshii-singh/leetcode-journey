@@ -64,6 +64,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3620-network-recovery-pathways) |
@@ -166,6 +167,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [0029-divide-two-integers](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0231-power-of-two) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Bit Manipulation
@@ -182,6 +184,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [1301-number-of-paths-with-max-score](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1301-number-of-paths-with-max-score) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -224,4 +227,8 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [0042-trapping-rain-water](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0503-next-greater-element-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->

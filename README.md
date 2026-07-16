@@ -23,6 +23,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0160-intersection-of-two-linked-lists) |
@@ -114,6 +115,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0125-valid-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |

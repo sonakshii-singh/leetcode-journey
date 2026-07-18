@@ -69,6 +69,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [1331-rank-transform-of-an-array](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -184,6 +185,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [0050-powx-n](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0231-power-of-two) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -253,6 +255,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3658-gcd-of-odd-and-even-sums) |

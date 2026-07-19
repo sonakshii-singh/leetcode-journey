@@ -64,6 +64,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [0496-next-greater-element-i](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0735-asteroid-collision) |
 | [1288-remove-covered-intervals](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1331-rank-transform-of-an-array) |
@@ -238,6 +239,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [0496-next-greater-element-i](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0735-asteroid-collision) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Design
 |  |
@@ -270,6 +272,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0735-asteroid-collision) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |

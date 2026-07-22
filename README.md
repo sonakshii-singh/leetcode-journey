@@ -74,6 +74,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2187-minimum-time-to-complete-trips](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -117,6 +118,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
@@ -147,6 +149,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | ------- |
 | [1552-magnetic-force-between-two-balls](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1552-magnetic-force-between-two-balls) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2187-minimum-time-to-complete-trips](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2812-find-the-safest-path-in-a-grid) |

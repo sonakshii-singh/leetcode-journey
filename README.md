@@ -21,6 +21,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0125-valid-palindrome) |
@@ -141,6 +142,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0125-valid-palindrome) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -315,4 +317,8 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3312-sorted-gcd-pair-queries) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->

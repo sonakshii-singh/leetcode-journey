@@ -42,6 +42,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [0206-reverse-linked-list](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0486-predict-the-winner) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [0136-single-number](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0204-count-primes) |
 | [0410-split-array-largest-sum](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0410-split-array-largest-sum) |
+| [0486-predict-the-winner](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0628-maximum-product-of-three-numbers) |
@@ -237,6 +239,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [0050-powx-n](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -266,6 +269,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [0410-split-array-largest-sum](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0410-split-array-largest-sum) |
+| [0486-predict-the-winner](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -351,4 +355,8 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->

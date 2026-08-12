@@ -22,6 +22,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0061-rotate-list) |
@@ -67,6 +68,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0136-single-number) |

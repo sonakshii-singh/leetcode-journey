@@ -57,6 +57,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [0496-next-greater-element-i](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -88,6 +89,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [1288-remove-covered-intervals](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1552-magnetic-force-between-two-balls) |
@@ -155,6 +157,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [0409-longest-palindrome](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0410-split-array-largest-sum) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2029-stone-game-ix) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -295,6 +298,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [0078-subsets](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0231-power-of-two) |
+| [1386-cinema-seat-allocation](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1386-cinema-seat-allocation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3514-number-of-unique-xor-triplets-ii) |

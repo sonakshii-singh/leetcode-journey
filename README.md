@@ -95,6 +95,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [1552-magnetic-force-between-two-balls](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1552-magnetic-force-between-two-balls) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1872-stone-game-viii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2029-stone-game-ix) |
@@ -140,6 +141,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0410-split-array-largest-sum) |
 | [1140-stone-game-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -280,6 +282,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [0877-stone-game](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -320,6 +323,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [1140-stone-game-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1872-stone-game-viii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3620-network-recovery-pathways) |
@@ -416,18 +420,21 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [0877-stone-game](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2029-stone-game-ix) |
 ## Ordered Set
 |  |

@@ -50,6 +50,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0160-intersection-of-two-linked-lists) |
@@ -189,6 +190,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0058-length-of-last-word) |
@@ -210,6 +212,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |

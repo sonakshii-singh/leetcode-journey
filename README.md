@@ -18,6 +18,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [0206-reverse-linked-list](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0876-middle-of-the-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |

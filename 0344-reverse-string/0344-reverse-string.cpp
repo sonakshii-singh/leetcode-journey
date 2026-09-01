@@ -1,13 +1,16 @@
 class Solution {
 public:
     void reverseString(vector<char>& s) {
-        stack<char> st;
-        for(auto it:s){
-          st.push(it);
+        int n = s.size();
+        int i = 0;
+        int j = n-1;
+
+        while(i < j)
+        {
+            swap(s[i], s[j]);
+            i++;
+            j--;
         }
-        for(int i=0; i<s.size(); i++){
-            s[i]=st.top();
-            st.pop();
-        }
+        
     }
 };

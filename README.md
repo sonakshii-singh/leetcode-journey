@@ -91,6 +91,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [0682-baseball-game](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0877-stone-game) |
+| [1004-max-consecutive-ones-iii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1288-remove-covered-intervals) |
@@ -152,6 +153,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0410-split-array-largest-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3312-sorted-gcd-pair-queries) |
@@ -230,6 +232,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -238,6 +241,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0410-split-array-largest-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1552-magnetic-force-between-two-balls) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |

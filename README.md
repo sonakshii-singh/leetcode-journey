@@ -136,6 +136,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3903-smallest-stable-index-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -161,6 +162,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [3699-number-of-zigzag-arrays-i](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3903-smallest-stable-index-i](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3903-smallest-stable-index-i) |
 ## Enumeration
 |  |
 | ------- |

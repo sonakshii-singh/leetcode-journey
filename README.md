@@ -34,6 +34,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [0160-intersection-of-two-linked-lists](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -57,6 +58,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [0141-linked-list-cycle](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0160-intersection-of-two-linked-lists) |
+| [0349-intersection-of-two-arrays](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1331-rank-transform-of-an-array) |
@@ -83,6 +85,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [0078-subsets](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0204-count-primes) |
+| [0349-intersection-of-two-arrays](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0496-next-greater-element-i) |
@@ -194,6 +197,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1331-rank-transform-of-an-array) |
@@ -245,6 +249,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1552-magnetic-force-between-two-balls) |

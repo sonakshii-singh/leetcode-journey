@@ -219,6 +219,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [0020-valid-parentheses](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0058-length-of-last-word) |
+| [0115-distinct-subsequences](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0409-longest-palindrome) |
@@ -361,6 +362,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0042-trapping-rain-water) |
+| [0115-distinct-subsequences](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0115-distinct-subsequences) |
 | [0410-split-array-largest-sum](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0877-stone-game) |

@@ -60,6 +60,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [0160-intersection-of-two-linked-lists](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1331-rank-transform-of-an-array) |
@@ -225,6 +226,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [0125-valid-palindrome](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-distinct-subsequences-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -245,6 +247,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |

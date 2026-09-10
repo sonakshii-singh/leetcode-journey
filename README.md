@@ -391,6 +391,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 ## Depth-First Search
 |  |
 | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3310-remove-methods-from-project) |
@@ -501,4 +502,12 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2029-stone-game-ix) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->

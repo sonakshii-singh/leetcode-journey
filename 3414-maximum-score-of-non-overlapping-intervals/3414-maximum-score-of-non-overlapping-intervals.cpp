@@ -8,7 +8,7 @@ public:
                 weight = intervals[i][2];
             arr.emplace_back(l, r, weight, i);
         }
-        // Sort by right endpoint.
+       
         sort(arr.begin(), arr.end(),
              [](auto&& a, auto&& b) { return get<1>(a) < get<1>(b); });
 
@@ -16,8 +16,7 @@ public:
         vector<vector<vector<int>>> indices(n + 1, vector<vector<int>>(5));
         for (int i = 0; i < n; i++) {
             auto [l, r, weight, idx] = arr[i];
-            // Use binary search to find intervals whose right endpoints are
-            // smaller than l.
+            
             int k = lower_bound(arr.begin(), arr.begin() + i, l,
                                 [](const tuple<int, int, int, int>& t,
                                    int val) { return get<1>(t) < val; }) -

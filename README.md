@@ -98,6 +98,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [0628-maximum-product-of-three-numbers](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0735-asteroid-collision) |
+| [0835-image-overlap](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1004-max-consecutive-ones-iii) |
@@ -308,6 +309,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2812-find-the-safest-path-in-a-grid) |

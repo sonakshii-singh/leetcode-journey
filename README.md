@@ -355,6 +355,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [0836-rectangle-overlap](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1140-stone-game-ii) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1406-stone-game-iii) |
 | [1872-stone-game-viii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -542,4 +543,5 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->

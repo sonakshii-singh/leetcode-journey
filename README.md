@@ -65,6 +65,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [0424-longest-repeating-character-replacement](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0904-fruit-into-baskets) |
+| [1096-brace-expansion-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1386-cinema-seat-allocation) |
@@ -224,6 +225,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -253,6 +255,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [0424-longest-repeating-character-replacement](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-distinct-subsequences-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -308,6 +311,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -442,6 +446,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 |  |
 | ------- |
 | [0078-subsets](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0078-subsets) |
+| [1096-brace-expansion-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
 | ------- |
@@ -456,6 +461,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [0682-baseball-game](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0735-asteroid-collision) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1096-brace-expansion-ii) |
 ## Design
 |  |
 | ------- |

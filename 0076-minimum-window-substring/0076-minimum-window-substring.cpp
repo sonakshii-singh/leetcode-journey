@@ -27,7 +27,6 @@ public:
                     minlen = r - l + 1;
                     sInd = l;
                 }
-
                 need[s[l]]++;
 
                 if (need[s[l]] > 0)
@@ -35,10 +34,8 @@ public:
 
                 l++;  
             }
-
             r++;
         }
-
         return sInd == -1 ? "" : s.substr(sInd, minlen);
     }
 };

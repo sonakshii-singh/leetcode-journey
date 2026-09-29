@@ -130,6 +130,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [2187-minimum-time-to-complete-trips](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2187-minimum-time-to-complete-trips) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -341,6 +342,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [0835-image-overlap](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1301-number-of-paths-with-max-score) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -426,6 +428,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [1406-stone-game-iii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1872-stone-game-viii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1872-stone-game-viii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -574,4 +577,5 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->

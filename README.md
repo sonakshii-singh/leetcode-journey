@@ -259,6 +259,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [0940-distinct-subsequences-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -470,6 +471,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [0735-asteroid-collision](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0735-asteroid-collision) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
@@ -578,6 +580,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |

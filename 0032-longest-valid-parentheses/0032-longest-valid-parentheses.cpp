@@ -9,7 +9,6 @@ public:
 
             if (s[i] == ')') {
 
-                // Case: ()
                 if (s[i - 1] == '(') {
                     dp[i] = 2;
 
@@ -17,7 +16,7 @@ public:
                         dp[i] += dp[i - 2];
                 }
 
-                // Case: ...))
+                
                 else {
                     int j = i - dp[i - 1] - 1;
 

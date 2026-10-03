@@ -249,6 +249,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [0003-longest-substring-without-repeating-characters](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0115-distinct-subsequences) |
@@ -421,6 +422,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0115-distinct-subsequences) |
 | [0410-split-array-largest-sum](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0410-split-array-largest-sum) |
@@ -460,6 +462,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0225-implement-stack-using-queues) |
@@ -581,6 +584,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |

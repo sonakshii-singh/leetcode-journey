@@ -256,6 +256,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [0076-minimum-window-substring](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0125-valid-palindrome) |
+| [0301-remove-invalid-parentheses](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0424-longest-repeating-character-replacement) |
@@ -324,6 +325,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2685-count-the-number-of-complete-components) |
@@ -463,6 +465,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 |  |
 | ------- |
 | [0078-subsets](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0078-subsets) |
+| [0301-remove-invalid-parentheses](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |

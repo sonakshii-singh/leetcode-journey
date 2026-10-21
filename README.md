@@ -495,6 +495,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2685-count-the-number-of-complete-components) |
@@ -513,6 +514,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [0042-trapping-rain-water](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0232-implement-queue-using-stacks) |
@@ -627,6 +629,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -634,6 +637,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry

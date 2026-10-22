@@ -356,6 +356,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -495,6 +496,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -629,6 +631,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -637,6 +640,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |

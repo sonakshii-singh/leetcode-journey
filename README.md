@@ -113,6 +113,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [0904-fruit-into-baskets](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1301-number-of-paths-with-max-score) |
@@ -363,6 +364,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [0104-maximum-depth-of-binary-tree](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -372,6 +374,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2685-count-the-number-of-complete-components) |
@@ -390,6 +393,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1301-number-of-paths-with-max-score) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -506,6 +510,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [0104-maximum-depth-of-binary-tree](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0145-binary-tree-postorder-traversal) |
+| [1254-number-of-closed-islands](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2685-count-the-number-of-complete-components) |

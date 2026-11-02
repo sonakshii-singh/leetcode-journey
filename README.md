@@ -103,6 +103,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [0349-intersection-of-two-arrays](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0410-split-array-largest-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0503-next-greater-element-ii) |
@@ -259,6 +260,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1288-remove-covered-intervals) |
@@ -439,6 +441,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [0204-count-primes](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0231-power-of-two) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0836-rectangle-overlap) |

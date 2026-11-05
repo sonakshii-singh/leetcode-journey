@@ -36,6 +36,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [0344-reverse-string](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sonakshii-singh/leetcode-journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -121,6 +122,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [1288-remove-covered-intervals](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -268,6 +270,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [1096-brace-expansion-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1552-magnetic-force-between-two-balls) |
@@ -354,6 +357,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [0349-intersection-of-two-arrays](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1552-magnetic-force-between-two-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |

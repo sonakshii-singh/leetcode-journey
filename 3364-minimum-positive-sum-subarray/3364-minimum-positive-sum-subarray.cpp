@@ -5,7 +5,7 @@ public:
         int n = nums.size();
 
         for (int i = 0; i < n; i++) {
-            int sum = 0;   // reset for each starting index
+            int sum = 0; 
 
             for (int j = i; j < n; j++) {
                 sum += nums[j];

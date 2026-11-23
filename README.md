@@ -126,6 +126,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [1288-remove-covered-intervals](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1406-stone-game-iii) |
@@ -230,6 +231,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [0410-split-array-largest-sum](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1872-stone-game-viii) |
@@ -490,6 +492,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [0836-rectangle-overlap](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1406-stone-game-iii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -637,6 +640,7 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 | [0155-min-stack](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sonakshii-singh/leetcode-journey/tree/master/0232-implement-queue-using-stacks) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1352-product-of-the-last-k-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -813,4 +817,8 @@ My LeetCode solutions in C++ with clean, optimized implementations of Data Struc
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sonakshii-singh/leetcode-journey/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/sonakshii-singh/leetcode-journey/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
